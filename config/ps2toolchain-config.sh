@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PS2TOOLCHAIN_DVP_REPO_URL="https://github.com/ps2dev/ps2toolchain-dvp.git"
+PS2TOOLCHAIN_DVP_REPO_URL="https://github.com/simonhochrein/ps2toolchain-dvp.git"
 PS2TOOLCHAIN_DVP_DEFAULT_REPO_REF="main"
 PS2TOOLCHAIN_IOP_REPO_URL="https://github.com/ps2dev/ps2toolchain-iop.git"
 PS2TOOLCHAIN_IOP_DEFAULT_REPO_REF="main"
